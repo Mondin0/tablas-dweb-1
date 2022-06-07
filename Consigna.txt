@@ -1,0 +1,31 @@
+Desafío #1
+Tablas
+
+Consigna:
+Duplicar la tabla de precios de mailchimp utilizando tablas HTML.
+
+## Guía  de estilos
+
+# Colores
+Amarillo Mailchimp #FFE01B
+Verde botones #004E56
+Título y precio #241c15
+Texto #403b3b
+Borde #dbd9d2
+
+# Tipografía
+Familia Gentium Basic (https://fonts.google.com/specimen/Gentium+Basic)
+Font weight Regular y Bold
+
+# Font size
+body: 16px
+Título 54px
+Título plan 32px
+Precio 52px
+
+# Lista
+border-bottom dashed #007c89
+Crear el check con Font Awesome (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css)
+
+
+

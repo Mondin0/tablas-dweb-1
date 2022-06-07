@@ -1,0 +1,34 @@
+body{
+    font-family: 'Gentium Basic', serif;
+    font-size: 16px;
+    font-weight: regular, bold;
+    color: #403b3b;
+}
+h1{
+    font-size: 54px;
+}
+.titulos{
+    font-size: 32px;
+    color: #241c15;
+}
+.precios{
+    font-size: 52px;
+    color: #241c15;
+}
+.tabla{
+    padding: auto;
+    border-bottom: dashed #007c89;
+    border-collapse: collapse;
+}
+.comprar{
+    color: #004E56;
+    text-align: center;
+    font-size: 35px;
+}
+div{
+    text-align: center;
+    background-color: #FFE01B;
+}
+table tr{
+    border: 1px solid blue;
+}
